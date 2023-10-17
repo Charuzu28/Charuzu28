@@ -1,9 +1,5 @@
 # Hi there, I'm Charles! 👋
 
-I'm a passionate coder who loves to bring ideas to life through programming. I'm always on my toes, working on interesting projects and exploring new technologies. Here's a glimpse into my coding journey:
-
-# Hi there, I'm Charles! 👋
-
 I'm a passionate coder with C++, HTML, CSS, and JavaScript expertise. I bring ideas to life through programming and design. Here's a glimpse into my coding journey:
 
 ## About Me
