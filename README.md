@@ -14,7 +14,7 @@ I'm a passionate coder with C++, HTML, CSS, and JavaScript expertise. I bring id
 
 - **Languages:** C++, HTML, CSS, JavaScript
 - **Frameworks:** Figma
-- **Tools:** VSCode
+- **Tools:** VSCode, CodeBlocks
 - **Databases:** MySQL
 
 ## Projects
