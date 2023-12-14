@@ -24,7 +24,7 @@ I'm a passionate coder with C++, HTML, CSS, and JavaScript expertise. I bring id
 
 ## Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/charles-alamares-106601279/)
 - [Facebook](https://www.facebook.com/AnnoyingASF)
 - [Portfolio](Working on it!)
 - [Email](mailto:charlesmarfil.alamares@gmail.com)
