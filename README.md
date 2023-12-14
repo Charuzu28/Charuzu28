@@ -19,7 +19,7 @@ I'm a passionate coder with C++, HTML, CSS, and JavaScript expertise. I bring id
 
 ## Projects
 
-- [SOS-CSS-GAME](https://github.com/Charuzu28/CSS-SOS-GAME.git)
+- [SOS-CSS-GAME](https://charuzu28.github.io/CSS-SOS-GAME/)
   - A Filipino-based game with Tagalog language.
 
 ## Find Me
