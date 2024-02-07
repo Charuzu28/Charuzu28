@@ -12,7 +12,7 @@ I'm a passionate coder with C++, HTML, CSS, and JavaScript expertise. I bring id
 
 ## Tech Stack
 
-- **Languages:** C++, HTML, CSS, JavaScript
+- **Languages:** C++, HTML, CSS, JavaScript, PHP
 - **Frameworks:** Figma
 - **Tools:** VSCode, CodeBlocks
 - **Databases:** MySQL
