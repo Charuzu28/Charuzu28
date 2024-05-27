@@ -68,7 +68,7 @@ Here's a visual representation of my proficiency in different programming langua
 </p>
 
 ### Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=charuzu28&bg_color=ffffff&color=4E5D94&line=4E5D94&point=4E5D94&hide_border=true)
+![Contribution Graph](https://github.com/charuzu28/charuzu28/raw/main/contribution-graph.png)
 
 ### Main Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charuzu28&layout=compact&theme=light)
