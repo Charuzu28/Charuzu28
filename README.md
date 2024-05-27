@@ -53,6 +53,13 @@ I'm a passionate coder with expertise in C++, HTML, CSS, and JavaScript. I bring
     </a>
 </p>
 
+### Design Tools
+<p>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    </a>
+</p>
+
 ## Language Proficiency
 
 Here's a visual representation of my proficiency in different programming languages:
