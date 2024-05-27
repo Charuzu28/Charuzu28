@@ -67,14 +67,12 @@ Here's a visual representation of my proficiency in different programming langua
 
 ## 🔭 Most Used Languages:
 
-!Top Langs
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charuzu28&layout=compact&theme=light)
 
 ## 🏃‍♂️ Streak Stats:
 
-!GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charuzu28)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### Main Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charuzu28&layout=compact&theme=light)
 
 ## Projects
 
