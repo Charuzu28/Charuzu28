@@ -59,10 +59,24 @@ Here's a visual representation of my proficiency in different programming langua
 
 ![Language Proficiency](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%2B%2B%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22PHP%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22backgroundColor%22%3A%5B%22%2300599C%22%2C%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%234F5B93%22%2C%22%234479A1%22%5D%2C%22data%22%3A%5B65%2C75%2C75%2C75%2C55%2C65%5D%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D)
 
+## Coding Activity
+
+### Coding Streak
+<p>
+    <img src="https://img.shields.io/badge/Coding_Streak-10-green?style=for-the-badge" alt="Coding Streak">
+    <img src="https://img.shields.io/badge/Current_Streak-10-blue?style=for-the-badge" alt="Current Streak">
+</p>
+
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=charuzu28&bg_color=ffffff&color=4E5D94&line=4E5D94&point=4E5D94&hide_border=true)
+
+### Main Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charuzu28&layout=compact&theme=light)
+
 ## Projects
 
 - [SOS-CSS-GAME](https://charuzu28.github.io/CSS-SOS-GAME/)
-  - A Filipino-based game with Tagalog language.
+  - A Filipino-based game in the Tagalog language.
 
 ## Find Me
 
