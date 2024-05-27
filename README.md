@@ -61,14 +61,17 @@ Here's a visual representation of my proficiency in different programming langua
 
 ## Coding Activity
 
-### Coding Streak
-<p>
-    <img src="https://img.shields.io/badge/Coding_Streak-10-green?style=for-the-badge" alt="Coding Streak">
-    <img src="https://img.shields.io/badge/Current_Streak-10-blue?style=for-the-badge" alt="Current Streak">
-</p>
+## 📊 GitHub Stats:
 
-### Contribution Graph
-![Contribution Graph](https://github.com/charuzu28/charuzu28/raw/main/images/github-contribution-grid-snake.svg)
+!GitHub Stats
+
+## 🔭 Most Used Languages:
+
+!Top Langs
+
+## 🏃‍♂️ Streak Stats:
+
+!GitHub Streak
 
 ### Main Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charuzu28&layout=compact&theme=light)
