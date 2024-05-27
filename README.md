@@ -36,7 +36,7 @@ I'm a passionate coder with expertise in C++, HTML, CSS, and JavaScript. I bring
 
 Here's a visual representation of my proficiency in different programming languages:
 
-![Language Proficiency](https://quickchart.io/chart?c={type:'bar',data:{labels:['C++','HTML','CSS','JavaScript','PHP'],datasets:[{label:'Proficiency',data:[75,85,80,80,80]}]},options:{scales:{y:{beginAtZero:true}}}})
+![Language Proficiency](https://quickchart.io/chart?c={type:'bar',data:{labels:['C++','HTML','CSS','JavaScript','PHP'],datasets:[{label:'Proficiency',data:[80,85,82,82,80]}]},options:{scales:{y:{beginAtZero:true}}}})
 
 ## Projects
 
