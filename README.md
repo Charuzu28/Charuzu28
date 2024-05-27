@@ -14,6 +14,7 @@ I'm a passionate coder with expertise in C++, HTML, CSS, and JavaScript. I bring
 
 ## Tech Stack
 
+### Languages
 <p>
     <a href="#" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -32,16 +33,33 @@ I'm a passionate coder with expertise in C++, HTML, CSS, and JavaScript. I bring
     </a>
 </p>
 
+### Frontend Frameworks
+<p>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    </a>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </a>
+</p>
+
+### Backend Frameworks
+<p>
+    <a href="#" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    </a>
+</p>
+
 ## Language Proficiency
 
 Here's a visual representation of my proficiency in different programming languages:
 
-![Language Proficiency](https://quickchart.io/chart?c={type:'bar',data:{labels:['C++','HTML','CSS','JavaScript','PHP'],datasets:[{label:'Proficiency',backgroundColor:['#00599C','#E34F26','#1572B6','#F7DF1E','#4F5B93'],data:[90,85,80,75,70]}]},options:{scales:{yAxes:[{ticks:{beginAtZero:true}}]},legend:{display:false}}})
+![Language Proficiency](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%2B%2B%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22PHP%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22backgroundColor%22%3A%5B%22%2300599C%22%2C%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%234F5B93%22%5D%2C%22data%22%3A%5B90%2C85%2C80%2C75%2C70%5D%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D)
 
 ## Projects
 
 - [SOS-CSS-GAME](https://charuzu28.github.io/CSS-SOS-GAME/)
-  - A Filipino-based game with Tagalog language.
+  - A Filipino-based game in the Tagalog language.
 
 ## Find Me
 
