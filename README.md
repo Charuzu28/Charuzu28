@@ -63,7 +63,7 @@ Here's a visual representation of my proficiency in different programming langua
 
 ## 📊 GitHub Stats:
 
-!GitHub Stats
+![Charuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=charuzu28&show_icons=true&theme=radical)
 
 ## 🔭 Most Used Languages:
 
