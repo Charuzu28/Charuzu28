@@ -93,4 +93,4 @@ Here's a visual representation of my proficiency in different programming langua
 - Portfolio: (Working on it! 🚧)
 - Email: [charlesmarfil.alamares@gmail.com](mailto:charlesmarfil.alamares@gmail.com) 📧
 
-Feel free to connect with me! Let's collaborate and build amazing things together. Happy coding! 🚀
+Feel free to connect with me! Let's collaborate and build amazing things together or Hire me to build you something. Happy coding! 🚀
