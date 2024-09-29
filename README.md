@@ -81,7 +81,8 @@ Here's a visual representation of my proficiency in different programming langua
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charuzu28)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-## Projects
+## Projects && Roadmaps:
+[![roadmap.sh](https://roadmap.sh/card/wide/668740d16cd3b9cc3fb3605a?variant=dark)](https://roadmap.sh)
 
 - [SOS-CSS-GAME](https://charuzu28.github.io/CSS-SOS-GAME/)
   - A Filipino-based game in the Tagalog language.
