@@ -64,7 +64,7 @@ I'm a passionate coder with expertise in C++, HTML, CSS, JavaScript, and PHP. I 
 
 Here's a visual representation of my proficiency in different programming languages:
 
-![Language Proficiency]( https://quickchart.io/chart?bkg=white&c={ "type": "bar", "data": { "labels": ["C++", "HTML", "C ... "beginAtZero": true } } ] }, "legend": { "display": false } }})
+![Language Proficiency](https://quickchart.io/chart?bkg=white&c=%7B%0A%20%20%22type%22%3A%20%22bar%22%2C%0A%20%20%22data%22%3A%20%7B%0A%20%20%20%20%22labels%22%3A%20%5B%22C%2B%2B%22%2C%20%22HTML%22%2C%20%22CSS%22%2C%20%22JavaScript%22%2C%20%22PHP%22%2C%20%22SQL%22%5D%2C%0A%20%20%20%20%22datasets%22%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22Proficiency%22%2C%0A%20%20%20%20%20%20%20%20%22backgroundColor%22%3A%20%5B%22%2300599C%22%2C%20%22%23E34F26%22%2C%20%22%231572B6%22%2C%20%22%23F7DF1E%22%2C%20%22%234F5B93%22%2C%20%22%234479A1%22%5D%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B65%2C%2075%2C%2075%2C%2065%2C%2080%2C%2065%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22options%22%3A%20%7B%0A%20%20%20%20%22scales%22%3A%20%7B%0A%20%20%20%20%20%20%22yAxes%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22ticks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22beginAtZero%22%3A%20true%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22legend%22%3A%20%7B%0A%20%20%20%20%20%20%22display%22%3A%20false%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
 
 ## Coding Activity
 
