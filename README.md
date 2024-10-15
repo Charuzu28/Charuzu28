@@ -64,33 +64,7 @@ I'm a passionate coder with expertise in C++, HTML, CSS, JavaScript, and PHP. I 
 
 Here's a visual representation of my proficiency in different programming languages:
 
-{
-  "type": "bar",
-  "data": {
-    "labels": ["C++", "HTML", "CSS", "JavaScript", "PHP", "SQL"],
-    "datasets": [
-      {
-        "label": "Proficiency",
-        "backgroundColor": ["#00599C", "#E34F26", "#1572B6", "#F7DF1E", "#4F5B93", "#4479A1"],
-        "data": [65, 75, 75, 65, 80, 65]
-      }
-    ]
-  },
-  "options": {
-    "scales": {
-      "yAxes": [
-        {
-          "ticks": {
-            "beginAtZero": true
-          }
-        }
-      ]
-    },
-    "legend": {
-      "display": false
-    }
-  }
-}
+![Language Proficiency]( https://quickchart.io/chart?bkg=white&c={ "type": "bar", "data": { "labels": ["C++", "HTML", "C ... "beginAtZero": true } } ] }, "legend": { "display": false } }})
 
 ## Coding Activity
 
