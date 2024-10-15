@@ -64,7 +64,33 @@ I'm a passionate coder with expertise in C++, HTML, CSS, JavaScript, and PHP. I 
 
 Here's a visual representation of my proficiency in different programming languages:
 
-![Language Proficiency](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%2B%2B%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22PHP%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22backgroundColor%22%3A%5B%22%2300599C%22%2C%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%234F5B93%22%2C%22%234479A1%22%5D%2C%22data%22%3A%5B65%2C75%2C75%2C75%2C55%2C65%5D%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D)
+{
+  "type": "bar",
+  "data": {
+    "labels": ["C++", "HTML", "CSS", "JavaScript", "PHP", "SQL"],
+    "datasets": [
+      {
+        "label": "Proficiency",
+        "backgroundColor": ["#00599C", "#E34F26", "#1572B6", "#F7DF1E", "#4F5B93", "#4479A1"],
+        "data": [65, 75, 75, 65, 80, 65]
+      }
+    ]
+  },
+  "options": {
+    "scales": {
+      "yAxes": [
+        {
+          "ticks": {
+            "beginAtZero": true
+          }
+        }
+      ]
+    },
+    "legend": {
+      "display": false
+    }
+  }
+}
 
 ## Coding Activity
 
