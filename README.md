@@ -1,6 +1,6 @@
 # Hi there, I'm Charles! 👋
 
-I'm a passionate coder with expertise in C++, HTML, CSS, JavaScript, and PHP. I bring ideas to life through programming and design. Here's a glimpse into my coding journey:
+I'm a passionate Web Developer. I bring ideas to life through programming and design.
 
 ![Coding GIF](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
