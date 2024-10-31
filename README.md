@@ -2,7 +2,8 @@
 
 I'm a passionate Web Developer. I bring ideas to life through programming and design.
 
-![When you spend hours debugging and it turns out to be a silly mistake](https://media.giphy.com/media/3o6MbjOW2J8D4FJ6MQ/giphy.gif)
+![Funny Programming GIF](https://media.giphy.com/media/OX6urXL6QTKGk/giphy.gif)
+
 
 
 
