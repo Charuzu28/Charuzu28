@@ -2,7 +2,8 @@
 
 I'm a passionate Web Developer. I bring ideas to life through programming and design.
 
-![When you finally fix a bug](https://media.giphy.com/media/3o7buviLz5uAqSRx5G/giphy.gif)
+![When you spend hours debugging and it turns out to be a silly mistake](https://media.giphy.com/media/3o6MbjOW2J8D4FJ6MQ/giphy.gif)
+
 
 
 ## Find Me
