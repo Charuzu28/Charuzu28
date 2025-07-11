@@ -2,7 +2,8 @@
 
 I'm a passionate Web Developer. I bring ideas to life through programming and design.
 
-![Funny Programming GIF]([https://media.giphy.com/media/OX6urXL6QTKGk/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR2YnN2MTUyeWdub3p2enB4b3NiMHZwemw5dGg5bHZzamxsY3JoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif))
+![Funny Programming GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+
 
 
 
