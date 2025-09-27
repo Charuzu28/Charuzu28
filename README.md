@@ -1,6 +1,6 @@
 # Hi there, I'm Charles! 👋
 
-A passionate Web Developer/UI/UX Designer/Graphic Designer. I bring ideas to life through programming and design.
+A passionate and aspiring Full-Stack Developer/UI/UX Designer/Graphic Designer. I bring ideas to life through programming and design.
 
 ![Funny Programming GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
