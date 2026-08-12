@@ -13,5 +13,5 @@ A passionate and aspiring Full-Stack Developer/UI/UX Designer/Graphic Designer. 
 
 Feel free to connect with me! Let's collaborate and build amazing things together or Hire me to build you something. Happy coding! 🚀
 
-# My Daily Track
+# My Daily Music Track
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bpfncetoz5lzpb02doqqx0hx6)
