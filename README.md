@@ -6,10 +6,12 @@ A passionate and aspiring Full-Stack Developer/UI/UX Designer/Graphic Designer. 
 
 
 ## Find Me
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bpfncetoz5lzpb02doqqx0hx6&unique={true|1|on|yes})
 
 - [LinkedIn](https://www.linkedin.com/in/charles-alamares-106601279/) 🌐
 - [Portfolio](https://chs-portfolio.vercel.app/) 👨🏻‍💻
 - [charlesmarfil.alamares@gmail.com](mailto:charlesmarfil.alamares@gmail.com) 📧
 
 Feel free to connect with me! Let's collaborate and build amazing things together or Hire me to build you something. Happy coding! 🚀
+
+# My Daily Track
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bpfncetoz5lzpb02doqqx0hx6)
