@@ -6,6 +6,7 @@ A passionate and aspiring Full-Stack Developer/UI/UX Designer/Graphic Designer. 
 
 
 ## Find Me
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bpfncetoz5lzpb02doqqx0hx6&unique={true|1|on|yes})
 
 - [LinkedIn](https://www.linkedin.com/in/charles-alamares-106601279/) 🌐
 - [Portfolio](https://chs-portfolio.vercel.app/) 👨🏻‍💻
