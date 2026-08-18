@@ -9,6 +9,7 @@ I build modern, responsive, and user-focused web applications — combining clea
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
