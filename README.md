@@ -15,6 +15,7 @@ I build modern, responsive, and user-focused web applications — combining clea
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 
 ## 💻 What I Do
 
