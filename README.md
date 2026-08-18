@@ -18,7 +18,7 @@ I build modern, responsive, and user-focused web applications — combining clea
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu)
 ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
-![Postgres](https://img.shields.io/badge/Postgres-000?style=flat&logo=postgres)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ## 💻 What I Do
 
