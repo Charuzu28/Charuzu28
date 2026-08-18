@@ -16,6 +16,8 @@ I build modern, responsive, and user-focused web applications — combining clea
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
 
 ## 💻 What I Do
 
