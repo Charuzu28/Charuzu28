@@ -1,17 +1,42 @@
-# Hi there, I'm Charles! 👋
+# Hi, I'm Charles Alamares 👋
 
-A passionate and aspiring Full-Stack Developer/UI/UX Designer/Graphic Designer. I bring ideas to life through programming and design.
+### Full-Stack Developer • UI/UX Designer
 
-![Funny Programming GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+I build modern, responsive, and user-focused web applications — combining clean design with functional and maintainable code.
 
+## 🛠 Tech Stack
 
-## Find Me
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 
-- [LinkedIn](https://www.linkedin.com/in/charles-alamares-106601279/) 🌐
-- [Portfolio](https://chs-portfolio.vercel.app/) 👨🏻‍💻
-- [charlesmarfil.alamares@gmail.com](mailto:charlesmarfil.alamares@gmail.com) 📧
+## 💻 What I Do
 
-Feel free to connect with me! Let's collaborate and build amazing things together or Hire me to build you something. Happy coding! 🚀
+- Full-stack web application development
+- Responsive frontend development
+- REST API development and integration
+- Authentication and user management
+- UI/UX design and prototyping
+- Turning designs into production-ready interfaces
 
-# My Daily Music Track
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bpfncetoz5lzpb02doqqx0hx6)
+## 🚀 Currently
+
+- Building full-stack web applications
+- Improving my software engineering and system design skills
+- Learning modern DevOps and deployment workflows
+
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://chs-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charles-alamares-106601279/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:charlesmarfil.alamares@gmail.com)
+
+---
+
+Open to **Software Development opportunities, freelance projects, and collaborations.**
